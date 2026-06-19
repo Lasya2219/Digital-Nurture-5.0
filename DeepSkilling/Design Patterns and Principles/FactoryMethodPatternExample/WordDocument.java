@@ -1,0 +1,5 @@
+package FactoryMethodPatternExample;
+
+interface WordDocument {
+    
+}
