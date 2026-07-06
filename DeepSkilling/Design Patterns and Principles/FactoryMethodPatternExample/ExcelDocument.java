@@ -1,5 +1,0 @@
-package FactoryMethodPatternExample;
-
-interface ExcelDocument {
-    
-}
