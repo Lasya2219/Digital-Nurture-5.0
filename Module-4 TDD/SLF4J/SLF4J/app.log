@@ -1,0 +1,4 @@
+18:16:25.404 [main] INFO  org.example.Exercise3 - Info
+18:16:25.409 [main] WARN  org.example.Exercise3 - Warn
+18:16:25.409 [main] DEBUG org.example.Exercise3 - Debug
+18:16:25.409 [main] ERROR org.example.Exercise3 - Error
