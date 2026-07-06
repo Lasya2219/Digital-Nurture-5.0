@@ -18,22 +18,22 @@ Some exercises require opening specific files instead of the project root. These
 
 - **JUnit**
   ```
-  DeepSkilling/JUnit Exercises/JUnitExercises/target/test-classes/org/example
+  Module-4 TDD/JUnit Exercises/JUnitExercises/target/test-classes/org/example
   ```
 
 - **Mockito**
   ```
-  DeepSkilling/Mockito Exercises/MockitoExercises/target/test-classes/org/example
+  Module-4 TDD/Mockito Exercises/MockitoExercises/target/test-classes/org/example
   ```
 
 - **SLF4J**
   ```
-  DeepSkilling/SLF4J/SLF4J/src/main/java/org/example
+  Module-4 TDD/SLF4J/SLF4J/src/main/java/org/example
   ```
 
 - **Spring Core and Maven**
   ```
-  DeepSkilling/Spring Core and Maven/Library Management System/src/main/java/com
+  Module-5/Spring Core and Maven/Library Management System/src/main/java/com
   ```
 
 ## Technologies Used
